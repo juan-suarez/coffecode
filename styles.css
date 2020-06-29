@@ -1,0 +1,46 @@
+body{
+    background-color:#EAE7DC;
+}
+.center{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#E85A4F;
+}
+
+footer{
+    margin-top: 8%;
+    bottom: 0;
+}
+.titulos{
+    color:#E85A4F;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.subtitulos{
+    color:#8E8D8A;
+}
+.vinculos{
+    color:#E85A4F;
+}
+.pcenter{
+    text-align: center;
+}
+.margen
+{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.logo
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.banner
+{
+    background-image: url(../coffeecode/banner-aepi.jpg);
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: 100%;
+    padding: 2rem 1rem;
+    margin-bottom: 1rem;
+    color:white;
+}

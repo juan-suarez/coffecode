@@ -1,0 +1,38 @@
+
+#header{
+    width: 100vw;
+    height: 65vh;
+    background-color: #094067;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#logo{
+    position: absolute;
+    width: 33vw;
+    margin-left: 33vw;
+    margin-top: 10vh;
+}
+#logeo{
+    margin-left: 65vw;
+    margin-right: 1vw;
+    color:#FFFFFF;
+}
+#boton{
+    color: #FFFFFF;
+    margin-top: 1vh;
+}
+.vista2{
+    margin-top: 3vh;
+}
+.texto{
+    padding-top: 10vh;
+    padding-left: 7vw;
+    padding-right: 6vw;
+    color: #585858;
+}
+.titulo{
+    color:#094067;
+}
+.cajaimg{
+    width: 25vw;
+}
